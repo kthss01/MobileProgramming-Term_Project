@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="type_data">
+        <item>일</item>
+        <item>약속</item>
+        <item>취미</item>
+        <item>기타</item>
+    </string-array>
+</resources>
